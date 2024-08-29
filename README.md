@@ -16,3 +16,7 @@
    ```bash
    
    python main.py
+
+
+Note: Download credentials.json from google clouds OAuth 2.0 after setting up.
+
